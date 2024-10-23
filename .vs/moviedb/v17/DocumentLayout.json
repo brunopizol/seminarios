@@ -23,7 +23,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "moviedb",
+              "Title": "moviedb.csproj",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\moviedb.csproj",
               "RelativeDocumentMoniker": "moviedb.csproj",
               "ToolTip": "C:\\Users\\Administrador\\source\\repos\\moviedb\\moviedb.csproj",
@@ -43,8 +43,7 @@
               "RelativeToolTip": "Api\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T00:40:49.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T00:40:49.36Z"
             }
           ]
         }
