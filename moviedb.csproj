@@ -12,9 +12,7 @@
 
   <ItemGroup>
     <Folder Include="Api\DTOs\" />
-    <Folder Include="Domain\Entidades\" />
     <Folder Include="Domain\Servicos\" />
-    <Folder Include="Infra\Repositorios\" />
   </ItemGroup>
 
 </Project>
