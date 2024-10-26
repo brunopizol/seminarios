@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Administrador\\source\\repos\\moviedb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\administrador\\source\\repos\\moviedb\\infra\\dbcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:infra\\dbcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\administrador\\source\\repos\\moviedb\\infra\\repositorios\\filmerepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:infra\\repositorios\\filmerepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\administrador\\source\\repos\\moviedb\\domain\\entidades\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:domain\\entidades\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\administrador\\source\\repos\\moviedb\\infra\\repositorios\\serierepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:infra\\repositorios\\serierepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\administrador\\source\\repos\\moviedb\\infra\\repositorios\\atorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:infra\\repositorios\\atorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\administrador\\source\\repos\\moviedb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\administrador\\source\\repos\\moviedb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\administrador\\source\\repos\\moviedb\\infra\\dbcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:infra\\dbcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\administrador\\source\\repos\\moviedb\\domain\\entidades\\ator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,24 +39,8 @@
       "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:domain\\entidades\\serie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\administrador\\source\\repos\\moviedb\\infra\\repositorios\\serierepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:infra\\repositorios\\serierepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\administrador\\source\\repos\\moviedb\\infra\\repositorios\\filmerepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:infra\\repositorios\\filmerepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\administrador\\source\\repos\\moviedb\\api\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:api\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\administrador\\source\\repos\\moviedb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\administrador\\source\\repos\\moviedb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\administrador\\source\\repos\\moviedb\\domain\\enumeradores\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -76,15 +76,19 @@
               "RelativeDocumentMoniker": "Domain\\Entidades\\Filme.cs",
               "ToolTip": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Domain\\Entidades\\Filme.cs",
               "RelativeToolTip": "Domain\\Entidades\\Filme.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAcAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T23:54:01.953Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AtorRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Infra\\Repositorios\\AtorRepositorio.cs",
               "RelativeDocumentMoniker": "Infra\\Repositorios\\AtorRepositorio.cs",
@@ -97,46 +101,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Serie.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Domain\\Entidades\\Serie.cs",
-              "RelativeDocumentMoniker": "Domain\\Entidades\\Serie.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Domain\\Entidades\\Serie.cs",
-              "RelativeToolTip": "Domain\\Entidades\\Serie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "SerieRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Infra\\Repositorios\\SerieRepositorio.cs",
+              "RelativeDocumentMoniker": "Infra\\Repositorios\\SerieRepositorio.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Infra\\Repositorios\\SerieRepositorio.cs",
+              "RelativeToolTip": "Infra\\Repositorios\\SerieRepositorio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T22:32:55.644Z",
+              "WhenOpened": "2024-10-24T22:40:35.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DbContexto.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Infra\\DbContexto.cs",
-              "RelativeDocumentMoniker": "Infra\\DbContexto.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Infra\\DbContexto.cs",
-              "RelativeToolTip": "Infra\\DbContexto.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAswCQAAAAAAAAAAAAAAA==",
+              "Title": "FilmeRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Infra\\Repositorios\\FilmeRepositorio.cs",
+              "RelativeDocumentMoniker": "Infra\\Repositorios\\FilmeRepositorio.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Infra\\Repositorios\\FilmeRepositorio.cs",
+              "RelativeToolTip": "Infra\\Repositorios\\FilmeRepositorio.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T00:26:28.277Z",
+              "WhenOpened": "2024-10-24T23:38:58.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Ator.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Domain\\Entidades\\Ator.cs",
-              "RelativeDocumentMoniker": "Domain\\Entidades\\Ator.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Domain\\Entidades\\Ator.cs",
-              "RelativeToolTip": "Domain\\Entidades\\Ator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T23:55:55.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -149,46 +140,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SerieRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Infra\\Repositorios\\SerieRepositorio.cs",
-              "RelativeDocumentMoniker": "Infra\\Repositorios\\SerieRepositorio.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Infra\\Repositorios\\SerieRepositorio.cs",
-              "RelativeToolTip": "Infra\\Repositorios\\SerieRepositorio.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Ator.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Domain\\Entidades\\Ator.cs",
+              "RelativeDocumentMoniker": "Domain\\Entidades\\Ator.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Domain\\Entidades\\Ator.cs",
+              "RelativeToolTip": "Domain\\Entidades\\Ator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T22:40:35.722Z",
+              "WhenOpened": "2024-10-23T23:55:55.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "FilmeRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Infra\\Repositorios\\FilmeRepositorio.cs",
-              "RelativeDocumentMoniker": "Infra\\Repositorios\\FilmeRepositorio.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Infra\\Repositorios\\FilmeRepositorio.cs",
-              "RelativeToolTip": "Infra\\Repositorios\\FilmeRepositorio.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Title": "DbContexto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Infra\\DbContexto.cs",
+              "RelativeDocumentMoniker": "Infra\\DbContexto.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Infra\\DbContexto.cs",
+              "RelativeToolTip": "Infra\\DbContexto.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T23:38:58.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FilmeController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Api\\Controllers\\FilmeController.cs",
-              "RelativeDocumentMoniker": "Api\\Controllers\\FilmeController.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Api\\Controllers\\FilmeController.cs",
-              "RelativeToolTip": "Api\\Controllers\\FilmeController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAMwCAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T00:36:36.254Z",
+              "WhenOpened": "2024-10-25T00:26:28.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Serie.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Domain\\Entidades\\Serie.cs",
+              "RelativeDocumentMoniker": "Domain\\Entidades\\Serie.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Domain\\Entidades\\Serie.cs",
+              "RelativeToolTip": "Domain\\Entidades\\Serie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T22:32:55.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -197,6 +188,19 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T22:28:03.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FilmeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Api\\Controllers\\FilmeController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\FilmeController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Api\\Controllers\\FilmeController.cs",
+              "RelativeToolTip": "Api\\Controllers\\FilmeController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAMwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T00:36:36.254Z",
               "EditorCaption": ""
             },
             {

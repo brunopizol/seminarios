@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Administrador\\source\\repos\\moviedb\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{11F28BF2-4E40-4B93-932A-88A76EC00196}|Itens de Solu\u00E7\u00E3o{11F28BF2-4E40-4B93-932A-88A76EC00196}|C:\\Users\\Administrador\\source\\repos\\moviedb\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{11F28BF2-4E40-4B93-932A-88A76EC00196}|Itens de Solu\u00E7\u00E3o{11F28BF2-4E40-4B93-932A-88A76EC00196}|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\administrador\\source\\repos\\moviedb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\administrador\\source\\repos\\moviedb\\infra\\repositorios\\filmerepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:infra\\repositorios\\filmerepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\administrador\\source\\repos\\moviedb\\infra\\repositorios\\atorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:infra\\repositorios\\atorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\administrador\\source\\repos\\moviedb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\administrador\\source\\repos\\moviedb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,11 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Filme.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Domain\\Entidades\\Filme.cs",
               "RelativeDocumentMoniker": "Domain\\Entidades\\Filme.cs",
@@ -79,7 +83,19 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T23:54:01.953Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "readme.md",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\readme.md",
+              "RelativeDocumentMoniker": "readme.md",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\moviedb\\readme.md",
+              "RelativeToolTip": "readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-26T00:47:06.348Z",
               "EditorCaption": ""
             },
             {
@@ -88,20 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AtorRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Infra\\Repositorios\\AtorRepositorio.cs",
-              "RelativeDocumentMoniker": "Infra\\Repositorios\\AtorRepositorio.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Infra\\Repositorios\\AtorRepositorio.cs",
-              "RelativeToolTip": "Infra\\Repositorios\\AtorRepositorio.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAswBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T00:29:31.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "SerieRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Infra\\Repositorios\\SerieRepositorio.cs",
               "RelativeDocumentMoniker": "Infra\\Repositorios\\SerieRepositorio.cs",
@@ -109,12 +112,11 @@
               "RelativeToolTip": "Infra\\Repositorios\\SerieRepositorio.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAqwBEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T22:40:35.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T22:40:35.722Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "FilmeRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Infra\\Repositorios\\FilmeRepositorio.cs",
               "RelativeDocumentMoniker": "Infra\\Repositorios\\FilmeRepositorio.cs",
@@ -127,20 +129,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\Administrador\\source\\repos\\moviedb\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-25T22:22:20.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "AtorRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Infra\\Repositorios\\AtorRepositorio.cs",
+              "RelativeDocumentMoniker": "Infra\\Repositorios\\AtorRepositorio.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Infra\\Repositorios\\AtorRepositorio.cs",
+              "RelativeToolTip": "Infra\\Repositorios\\AtorRepositorio.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T00:29:31.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Ator.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Domain\\Entidades\\Ator.cs",
               "RelativeDocumentMoniker": "Domain\\Entidades\\Ator.cs",
@@ -148,12 +162,11 @@
               "RelativeToolTip": "Domain\\Entidades\\Ator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T23:55:55.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T23:55:55.152Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "DbContexto.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Infra\\DbContexto.cs",
               "RelativeDocumentMoniker": "Infra\\DbContexto.cs",
@@ -161,12 +174,11 @@
               "RelativeToolTip": "Infra\\DbContexto.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAswCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T00:26:28.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T00:26:28.277Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Serie.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Domain\\Entidades\\Serie.cs",
               "RelativeDocumentMoniker": "Domain\\Entidades\\Serie.cs",
@@ -174,12 +186,11 @@
               "RelativeToolTip": "Domain\\Entidades\\Serie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T22:32:55.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T22:32:55.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -187,12 +198,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T22:28:03.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T22:28:03.197Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "FilmeController.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Api\\Controllers\\FilmeController.cs",
               "RelativeDocumentMoniker": "Api\\Controllers\\FilmeController.cs",
@@ -200,12 +210,11 @@
               "RelativeToolTip": "Api\\Controllers\\FilmeController.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAMwCAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T00:36:36.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T00:36:36.254Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "AtorController.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Api\\Controllers\\AtorController.cs",
               "RelativeDocumentMoniker": "Api\\Controllers\\AtorController.cs",
@@ -213,12 +222,11 @@
               "RelativeToolTip": "Api\\Controllers\\AtorController.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAqwB0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T22:53:56.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T22:53:56.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "SerieController.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Api\\Controllers\\SerieController.cs",
               "RelativeDocumentMoniker": "Api\\Controllers\\SerieController.cs",
@@ -226,12 +234,11 @@
               "RelativeToolTip": "Api\\Controllers\\SerieController.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T23:06:31.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T23:06:31.489Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Genero.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Domain\\Enumeradores\\Genero.cs",
               "RelativeDocumentMoniker": "Domain\\Enumeradores\\Genero.cs",
@@ -239,12 +246,11 @@
               "RelativeToolTip": "Domain\\Enumeradores\\Genero.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T22:37:18.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T22:37:18.34Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Api\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Api\\Controllers\\WeatherForecastController.cs",
@@ -252,8 +258,7 @@
               "RelativeToolTip": "Api\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T00:40:49.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T00:40:49.36Z"
             }
           ]
         }
