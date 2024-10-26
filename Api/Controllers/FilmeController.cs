@@ -15,14 +15,14 @@ namespace moviedb.Api.Controllers
             filmeRepositorio = repositorio;
         }
 
-        [HttpGet(Name = "BuscarTodosFilmes")]
-        public IEnumerable<Filme> Get()
+        [HttpGet]
+        public ActionResult<IEnumerable<Filme>> BuscarTodosFilmes()
         {
             return filmeRepositorio.BuscarTodosFilmes();
         }
 
-        [HttpGet(Name = "BuscarFilmePorNome")]
-        public Filme BuscarFilmePorNome([FromBody] string nome)
+        [HttpGet("{nome}")]
+        public ActionResult<Filme> BuscarFilmePorNome(string nome)
         {
             return filmeRepositorio.BuscarFilmePorNome(nome);
         }

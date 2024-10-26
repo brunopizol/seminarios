@@ -5,13 +5,17 @@ namespace moviedb.Infra.Repositorios
     public class AtorRepositorio
     {
         public List<Ator> Atores { get; set; }
-        public AtorRepositorio()
+        public DbContexto DbContexto { get; set; }
+        public AtorRepositorio(DbContexto dbContexto)
         {
             this.Atores = new List<Ator>();
+            DbContexto = dbContexto;
         }
         public void Criar(Ator ator)
         {
             this.Atores.Add(ator);
+            this.DbContexto.Atores.Add(ator);
+            this.DbContexto.SaveChanges();
         }
 
         public List<Ator> BuscarTodosAtores()
